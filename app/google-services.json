@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267316013061",
+    "firebase_url": "https://diappaja10118370-default-rtdb.firebaseio.com",
+    "project_id": "diappaja10118370",
+    "storage_bucket": "diappaja10118370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267316013061:android:93cfa4bb161058657e546c",
+        "android_client_info": {
+          "package_name": "com.m16yusuf.diappaja10118370"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267316013061-d5e47qvqtg4nrcjjmcrkv8hh7c3rk1g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_t1rk8ix3zjeE9I3P2WqOs-IHb19WHok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267316013061-d5e47qvqtg4nrcjjmcrkv8hh7c3rk1g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
